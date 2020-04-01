@@ -21,7 +21,9 @@ python3 hostfiler.py
 mpirun -n 2 --hostfile /etc/hostfile/hostfile hostname -I
 ```
 
+## Roadmap
 
+* How to modify all the host files once IP addresses are assigned?
 
 ## Vagrant
 
