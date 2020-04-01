@@ -39,3 +39,4 @@ mpirun -n 2 --hostfile /etc/hostfile/hostfile hostname -I
 ## Notes
 * [Multiple Vagrant VMs in one Vagrantfile](https://www.thisprogrammingthing.com/2015/multiple-vagrant-vms-in-one-vagrantfile/)
 * [Linked Clone](https://www.vagrantup.com/docs/virtualbox/configuration.html#linked-clones)
+* [vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager)
