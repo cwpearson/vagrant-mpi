@@ -43,3 +43,4 @@ mpirun -n 2 --hostfile /etc/hostfile/hostfile hostname -I
 * [Linked Clone](https://www.vagrantup.com/docs/virtualbox/configuration.html#linked-clones)
 * [vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager)
 * [Running an MPI cluster in a LAN](https://mpitutorial.com/tutorials/running-an-mpi-cluster-within-a-lan/)
+* [OpenMPI: Diagnose Multi-Host Problems](https://www.open-mpi.org/faq/?category=running#diagnose-multi-host-problems)
