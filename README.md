@@ -44,3 +44,4 @@ mpirun -n 2 --hostfile /etc/hostfile/hostfile hostname -I
 * [vagrant-hostmanager](https://github.com/devopsgroup-io/vagrant-hostmanager)
 * [Running an MPI cluster in a LAN](https://mpitutorial.com/tutorials/running-an-mpi-cluster-within-a-lan/)
 * [OpenMPI: Diagnose Multi-Host Problems](https://www.open-mpi.org/faq/?category=running#diagnose-multi-host-problems)
+* [Building a Raspberry Pi Cluster: SLURM](https://medium.com/@glmdev/building-a-raspberry-pi-cluster-784f0df9afbd)
